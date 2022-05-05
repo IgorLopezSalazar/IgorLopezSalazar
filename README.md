@@ -1,20 +1,25 @@
-<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Atharva</h1>
-<h3 align="center">Interested in anything related to AI</h3>
-![](https://komarev.com/ghpvc/?username=Gladiator07)
-<h5 align="center"><i>(Feel free to contact me via any social-media platforms below)</i></h5>
-[![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/atharva-ingle-564430187/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/atharvaingle)](https://www.kaggle.com/atharvaingle)
-[![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/)
-[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)](https://twitter.com/AtharvaIngle7)
-<!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
-<!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)
-<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> -->
+<!-- HEADER -->
+Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Igor and welcome to my GitHub
+<img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200"/>
+===============================================================================================
+
+
+<div id="badges" align="center">
+   <h3>Social-media platforms</h3>
+   <a href="https://www.linkedin.com/in/igor-lopez-salazar/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&  logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://www.igorlopez.eus">
+      <img src="https://img.shields.io/badge/Webpage-orange?style=flat&logo=. NET&logoColor=white" alt="WebPage Badge"/>
+   </a>
+</div>
+
 ---
+<br><br>
+<!-- /HEADER -->
+
+---
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif" /> -->
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
